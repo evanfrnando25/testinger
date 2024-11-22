@@ -278,7 +278,8 @@ header {
     cursor: pointer;
     background-size: cover;
     align-content: center !important;
-    justify-content: center;
+    justify-content: center !important;
+    text-align: center;
     background-position: center center;
     transition: background-color 0.3s ease;
 }
